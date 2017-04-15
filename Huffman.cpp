@@ -191,7 +191,7 @@ int main(int argc, char * argv[])
     root = &S;
     FILE * stream;
     if ((stream=fopen("input.txt", "r"))==NULL) {
-     printf ("Nie mogê otworzyæ pliku test.txt do zapisu!\n");
+     printf ("Nie mogÃª otworzyÃ¦ pliku test.txt do zapisu!\n");
      exit(1);
      }
     int amofchars=0; //amount of characters
