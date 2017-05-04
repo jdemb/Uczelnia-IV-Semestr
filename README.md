@@ -1,10 +1,10 @@
 
 Algorytmy i Struktury Danych 
 
-Drzewa Czerwono-Czarne - implementacja podstawowych operacji [klik](https://github.com/jdemb/Uczelnia-IV-Semestr/AiSD/drzewaRB.c)
+Drzewa Czerwono-Czarne - implementacja podstawowych operacji [klik](AiSD/drzewaRB.c)
 
-Kod Huffmana - implementacja [klik](https://github.com/jdemb/Uczelnia-IV-Semestr/AiSD/Huffman.cpp)
+Kod Huffmana - implementacja [klik](AiSD/Huffman.cpp)
 
-Bdrzewa - implementacja podstawowych operacji na plikach [klik](https://github.com/jdemb/Uczelnia-IV-Semestr/AiSD/bdrzewa.cpp)
+Bdrzewa - implementacja podstawowych operacji na plikach [klik](AiSD/bdrzewa.cpp)
 
-Zbiory rozłączne - implementacja na algorytmie Kruskala [klik](https://github.com/jdemb/Uczelnia-IV-Semestr/AiSD/rozlaczne.cpp)
+Zbiory rozłączne - implementacja na algorytmie Kruskala [klik](AiSD/rozlaczne.cpp)
