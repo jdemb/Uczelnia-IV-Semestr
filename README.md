@@ -7,4 +7,4 @@ Kod Huffmana - implementacja [klik](https://github.com/jdemb/Uczelnia-IV-Semestr
 
 Bdrzewa - implementacja podstawowych operacji na plikach [klik](https://github.com/jdemb/Uczelnia-IV-Semestr/bdrzewa.cpp)
 
-Zbiory rozłšczne - implementacja na algorytmie Kruskala [klik](https://github.com/jdemb/Uczelnia-IV-Semestr/rozlaczne.cpp)
+Zbiory rozłączne - implementacja na algorytmie Kruskala [klik](https://github.com/jdemb/Uczelnia-IV-Semestr/rozlaczne.cpp)
